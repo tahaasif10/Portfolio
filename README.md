@@ -1,6 +1,6 @@
 # 💻 My First Developer Portfolio
 
-This is the first portfolio website I ever built — it may not be super professional, but I'm proud of how far I’ve come! It showcases my skills, a few notable projects, and provides a brief overview of me as a developer.
+This is the first portfolio website I ever built — it aint that professional, but its the best i made as a newbie! It showcases my html css and js skills, a few notable projects, and provides a brief overview of me as a developer.
 
 ## 🔧 What I Used
 
@@ -8,7 +8,7 @@ This is the first portfolio website I ever built — it may not be super profess
 - Basic JavaScript  
 - Simple file structure (no frameworks yet)  
 
-I didn’t use any fancy libraries or designs. Just raw code and a lot of trial and error!
+I didn’t use any fancy libraries or designs. Just raw code.!
 
 ---
 
@@ -17,13 +17,13 @@ I didn’t use any fancy libraries or designs. Just raw code and a lot of trial 
 - A homepage introducing me
 - Sections for skills and projects
 - A contact form (basic, not connected yet)
-- My very first styling efforts 😅
+- My very first styling efforts (aint fancy so dont expect anything 😅)
 
 ---
 
 ## 🎯 Why I Made This
 
-I wanted to see what I could create from scratch. It’s not perfect, but it’s **100% mine**, and that feels amazing.
+I wanted to see what I could create from scratch. It’s not perfect, but it’s **100% mine**.
 
 ---
 

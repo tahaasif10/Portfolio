@@ -1,4 +1,4 @@
-# 💻 My First Developer Portfolio
+# 💻 My First Portfolio Project
 
 This is the first portfolio website I ever built — it aint that professional, but its the best i made as a newbie! It showcases my html css and js skills, a few notable projects, and provides a brief overview of me as a developer.
 

@@ -6,7 +6,7 @@ This is the first portfolio website I ever built — it aint that professional, 
 
 - HTML & CSS
 - Basic JavaScript  
-- Simple file structure (no frameworks yet)  
+- Simple structure (no frameworks yet)  
 
 I didn’t use any fancy libraries or designs. Just raw code.!
 
